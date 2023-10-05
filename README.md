@@ -1,30 +1,24 @@
-#  MSSV B2103447
-# Trần Thái Toàn
-# Foobar
+# Thông tin cá nhân
+Trần Thái Toàn
+Sinh viên đại học cần thơ khóa 47 
+Mã số sinh viên B2103447
 
-Foobar is a Python library for dealing with word pluralization.
+## Thông tin liên hệ
 
-## Installation
+Facebook : https://www.messenger.com/
+Số Điện Thoại : 037xxxxxx01
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Ngôn ngữ lập trình yêu thích 
 
 ```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
+PHP
+JAVA
+C#
+PYTHON
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing
